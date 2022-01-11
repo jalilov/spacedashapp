@@ -1,1 +1,1 @@
-web: gunicorn space_dash_app:server
+web: python space_dash_app.py
